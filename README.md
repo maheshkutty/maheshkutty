@@ -2,11 +2,12 @@
 
 I am **Mahesh Kutty** 
 
-👨🏻‍💻 Experienced web developer, worked on Node, React and Golang. 
+👨🏻‍💻 Experienced Web Developer.
+
+🤟🏻 My Favourite Node, React and Golang. 
 
 🔍 Exploring the Deep Learning.
 
 🆕 Currently Working CNN Based Appliaction.
 
 💬 Ask me about Machine Learning, BlockChain & Deep Learning.
-
