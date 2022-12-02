@@ -8,6 +8,6 @@ I am **Mahesh Kutty**
 
 🔍 Exploring the Deep Learning.
 
-🆕 Currently Working CNN Based Appliaction.
+🆕 Currently Working CNN Based Application.
 
 💬 Ask me about Machine Learning, BlockChain & Deep Learning.
